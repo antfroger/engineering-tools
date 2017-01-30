@@ -32,6 +32,12 @@
 * New Relic https://newrelic.com/
 * VividCortex https://www.vividcortex.com/
 
+## Project Management
+
+* Jira https://www.atlassian.com/software/jira
+* Pivotal Tracker https://www.pivotaltracker.com/
+* Trello https://trello.com/
+
 ## Security
 
 * Detectify https://detectify.com/
