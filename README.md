@@ -28,3 +28,13 @@
 * Detectify https://detectify.com/
 * Evident.io https://evident.io/
 * Signal Sciences https://www.signalsciences.com/
+
+----
+
+# Contributing
+
+Contributions are welcome!
+
+# License
+
+Licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
