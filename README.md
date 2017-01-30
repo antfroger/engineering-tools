@@ -10,6 +10,15 @@
 * Bitbucket https://bitbucket.org/
 * Git https://git-scm.com/
 * GitHub https://github.com/
+* GitLab https://about.gitlab.com/
+
+## Continuous Integration (CI)
+
+* Circle CI https://circleci.com/
+* Code Climate https://codeclimate.com/
+* Scrutinizer https://scrutinizer-ci.com/
+* SensioLabsInsight https://insight.sensiolabs.com/
+* Travis CI https://travis-ci.org/
 
 ## Mockups
 
