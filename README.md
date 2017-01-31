@@ -16,9 +16,17 @@
 
 * [Circle CI](https://circleci.com/)
 * [Code Climate](https://codeclimate.com/)
+* [Jenkins](https://jenkins.io/)
 * [Scrutinizer](https://scrutinizer-ci.com/)
 * [SensioLabsInsight](https://insight.sensiolabs.com/)
 * [Travis CI](https://travis-ci.org/)
+
+## Infrastructure
+
+* [Chef](https://www.chef.io/)
+* [Docker](https://www.docker.com/)
+* [Puppet](https://puppet.com/)
+* [Vagrant](https://www.vagrantup.com/)
 
 ## Mockups
 
