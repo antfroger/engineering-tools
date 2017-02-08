@@ -5,7 +5,7 @@
 * [Postman](https://www.getpostman.com/)
 * [Runscope](https://www.runscope.com/)
 
-## Code versionning
+## Code versioning
 
 * [Bitbucket](https://bitbucket.org/)
 * [Git](https://git-scm.com/)
