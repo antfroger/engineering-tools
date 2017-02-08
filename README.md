@@ -28,6 +28,7 @@ A remote server automation and deployment tool written in Ruby.
 
 ## Infrastructure
 
+* [Ansible](https://www.ansible.com/)
 * [Chef](https://www.chef.io/)
 * [Docker](https://www.docker.com/)
 * [Puppet](https://puppet.com/)
