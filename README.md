@@ -21,6 +21,11 @@
 * [SensioLabsInsight](https://insight.sensiolabs.com/)
 * [Travis CI](https://travis-ci.org/)
 
+## Deployment tools
+
+* [Capistrano](http://capistranorb.com/)
+A remote server automation and deployment tool written in Ruby.
+
 ## Infrastructure
 
 * [Chef](https://www.chef.io/)
