@@ -23,7 +23,7 @@
 
 ## Deployment tools
 
-* [Capistrano](http://capistranorb.com/)
+* [Capistrano](http://capistranorb.com/)  
 A remote server automation and deployment tool written in Ruby.
 
 ## Infrastructure
@@ -57,6 +57,12 @@ A remote server automation and deployment tool written in Ruby.
 * [Detectify](https://detectify.com/)
 * [Evident.io](https://evident.io/)
 * [Signal Sciences](https://www.signalsciences.com/)
+
+## Testing
+
+### Browser testing
+
+* [BrowserStack](https://www.browserstack.com/)
 
 ----
 
