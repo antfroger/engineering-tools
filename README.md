@@ -64,6 +64,19 @@ A remote server automation and deployment tool written in Ruby.
 
 * [BrowserStack](https://www.browserstack.com/)
 
+### Functional testing
+
+* [CasperJS](http://casperjs.org/)
+Navigation scripting & testing for PhantomJS and SlimerJS
+* [PhantomJS](http://phantomjs.org/)
+PhantomJS is a headless WebKit scriptable with a JavaScript API
+* [Sahi](http://sahipro.com/)
+A web test automation tool
+* [Selenium](http://www.seleniumhq.org/)
+Selenium is a suite of tools to automate web browsers across many platforms.
+* [SlimerJS](https://slimerjs.org/)
+A scriptable browser for Web developers
+
 ----
 
 # Contributing
