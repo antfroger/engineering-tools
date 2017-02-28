@@ -1,25 +1,43 @@
 # Software Engineering Tools
 
+## Introduction
+
+This is an attempt to categorise different very useful tools to build high quality web applications.
+
+----
+
 ## Api
 
-* [Postman](https://www.getpostman.com/)
-* [Runscope](https://www.runscope.com/)
+* [Postman](https://www.getpostman.com/)  
+A powerful GUI platform to make your API development faster & easier, from building API requests through testing, documentation and sharing.
+* [Runscope](https://www.runscope.com/)  
+API monitoring & testing.
 
 ## Code versioning
 
-* [Bitbucket](https://bitbucket.org/)
-* [Git](https://git-scm.com/)
-* [GitHub](https://github.com/)
-* [GitLab](https://about.gitlab.com/)
+* [Bitbucket](https://bitbucket.org/)  
+Distributed version control system that makes it easy for you to collaborate with your team.
+* [Git](https://git-scm.com/)  
+Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+* [GitHub](https://github.com/)  
+GitHub fosters a fast, flexible, and collaborative development process that lets you work on your own or with others.
+* [GitLab](https://about.gitlab.com/)  
+GitLab unifies issues, code review, CI and CD into a single UI.
 
 ## Continuous Integration (CI)
 
-* [Circle CI](https://circleci.com/)
+* [Circle CI](https://circleci.com/)  
+The modern continuous integration and delivery platform that software teams love to use.
 * [Code Climate](https://codeclimate.com/)
-* [Jenkins](https://jenkins.io/)
-* [Scrutinizer](https://scrutinizer-ci.com/)
-* [SensioLabsInsight](https://insight.sensiolabs.com/)
-* [Travis CI](https://travis-ci.org/)
+Get automated code review for test coverage, complexity, duplication, security, style, and more, and merge with confidence.
+* [Jenkins](https://jenkins.io/)  
+The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project.
+* [Scrutinizer](https://scrutinizer-ci.com/)  
+Improve code quality and find bugs before they hit production with our continuous inspection platform.
+* [SensioLabsInsight](https://insight.sensiolabs.com/)  
+Insight continuously analyzes your code to detect security risks, finds bugs, provides actionable metrics and helps improve your projects in the long term.
+* [Travis CI](https://travis-ci.org/)  
+Test and Deploy with Confidence.
 
 ## Deployment tools
 
@@ -28,53 +46,73 @@ A remote server automation and deployment tool written in Ruby.
 
 ## Infrastructure
 
-* [Ansible](https://www.ansible.com/)
-* [Chef](https://www.chef.io/)
-* [Docker](https://www.docker.com/)
-* [Puppet](https://puppet.com/)
-* [Vagrant](https://www.vagrantup.com/)
+* [Ansible](https://www.ansible.com/)  
+Automation for everyone.
+* [Chef](https://www.chef.io/)  
+Automate infrastructure and applications. Deploy new code faster and more frequently.
+* [Docker](https://www.docker.com/)  
+Docker is the world’s leading software containerization platform.
+* [Puppet](https://puppet.com/)  
+The shortest path to managing today’s infrastructure — and tomorrow’s.
+* [Vagrant](https://www.vagrantup.com/)  
+Create and configure lightweight, reproducible, and portable development environments.
 
 ## Mockups
 
-* [Balsamiq](https://balsamiq.com/)
-* [Mockuuups Studio](https://mockuuups.studio/)
+* [Balsamiq](https://balsamiq.com/)  
+Rapid, effective and fun wireframing software.
+* [Mockuuups Studio](https://mockuuups.studio/)  
+Drag-and-drop tool for creating beautiful app previews and marketing materials.
 
 ## Monitoring
 
-* [Grafana](http://grafana.org/)
-* [Kibana](https://www.elastic.co/products/kibana)
-* [New Relic](https://newrelic.com/)
-* [VividCortex](https://www.vividcortex.com/)
+* [Grafana](http://grafana.org/)  
+The leading tool for querying and visualizing time series and metrics.
+* [Kibana](https://www.elastic.co/products/kibana)  
+Kibana lets you visualize your Elasticsearch data and navigate the Elastic Stack, so you can do anything from learning why you're getting paged at 2:00 a.m. to understanding the impact rain might have on your quarterly numbers.
+* [New Relic](https://newrelic.com/)  
+Performance monitoring for today’s digital business.
+* [VividCortex](https://www.vividcortex.com/)  
+Database Monitoring and Performance Management.
 
 ## Project Management
 
-* [Jira](https://www.atlassian.com/software/jira)
-* [Pivotal Tracker](https://www.pivotaltracker.com/)
-* [Trello](https://trello.com/)
+* [Jira](https://www.atlassian.com/software/jira)  
+The #1 software development tool used by agile teams.
+* [Pivotal Tracker](https://www.pivotaltracker.com/)  
+Every project starts with a story, no matter what you're building. Tracker helps your team better develop and keep track of them while they progress from start to delivered.
+* [Redmine](http://www.redmine.org/)  
+Redmine is a flexible project management web application.
+* [Trello](https://trello.com/)  
+Trello lets you work more collaboratively and get more done.
 
 ## Security
 
-* [Detectify](https://detectify.com/)
-* [Evident.io](https://evident.io/)
-* [Signal Sciences](https://www.signalsciences.com/)
+* [Detectify](https://detectify.com/)  
+Continuous Web Security.
+* [Evident.io](https://evident.io/)  
+Continuous Security & Compliance for Your Public Cloud.
+* [Signal Sciences](https://www.signalsciences.com/)  
+Application security for the modern web.
 
 ## Testing
 
 ### Browser testing
 
-* [BrowserStack](https://www.browserstack.com/)
+* [BrowserStack](https://www.browserstack.com/)  
+Live, Web-Based Browser Testing.
 
 ### Functional testing
 
-* [CasperJS](http://casperjs.org/)
+* [CasperJS](http://casperjs.org/)  
 Navigation scripting & testing for PhantomJS and SlimerJS
-* [PhantomJS](http://phantomjs.org/)
+* [PhantomJS](http://phantomjs.org/)  
 PhantomJS is a headless WebKit scriptable with a JavaScript API
-* [Sahi](http://sahipro.com/)
+* [Sahi](http://sahipro.com/)  
 A web test automation tool
-* [Selenium](http://www.seleniumhq.org/)
+* [Selenium](http://www.seleniumhq.org/)  
 Selenium is a suite of tools to automate web browsers across many platforms.
-* [SlimerJS](https://slimerjs.org/)
+* [SlimerJS](https://slimerjs.org/)  
 A scriptable browser for Web developers
 
 ----
