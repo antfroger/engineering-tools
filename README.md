@@ -117,6 +117,12 @@ Selenium is a suite of tools to automate web browsers across many platforms.
 * [SlimerJS](https://slimerjs.org/)  
 A scriptable browser for Web developers
 
+### Responsive testing
+
+* [Sizzy](http://sizzy.co/)  
+A tool for developing responsive websites crazy-fast.
+A bunch of devices diaplay your ewbsite at the same time, allowing you to visualize how it works on them.
+
 ----
 
 # Contributing
