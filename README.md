@@ -46,6 +46,13 @@ A remote server automation and deployment tool written in Ruby.
 * [Skyliner](https://www.skyliner.io/)  
 The launch platform for your best work
 
+## Email
+
+* [Mail tester](https://www.mail-tester.com/)  
+Test the Spammyness of your Emails
+* [Mosaico](https://mosaico.io/)  
+Open source email template builder
+
 ## Infrastructure
 
 * [Ansible](https://www.ansible.com/)  
