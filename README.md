@@ -97,6 +97,10 @@ Redmine is a flexible project management web application.
 * [Trello](https://trello.com/)  
 Trello lets you work more collaboratively and get more done.
 
+## Project preparation
+
+* [Writemaps](https://writemaps.com/)
+
 ## Security
 
 * [Detectify](https://detectify.com/)  
