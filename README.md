@@ -44,14 +44,14 @@ Test and Deploy with Confidence.
 * [Capistrano](http://capistranorb.com/)  
 A remote server automation and deployment tool written in Ruby.
 * [Skyliner](https://www.skyliner.io/)  
-The launch platform for your best work
+The launch platform for your best work.
 
 ## Email
 
 * [Mail tester](https://www.mail-tester.com/)  
-Test the Spammyness of your Emails
+Test the Spammyness of your Emails.
 * [Mosaico](https://mosaico.io/)  
-Open source email template builder
+Open source email template builder.
 
 ## Infrastructure
 
@@ -120,15 +120,15 @@ Live, Web-Based Browser Testing.
 ### Functional testing
 
 * [CasperJS](http://casperjs.org/)  
-Navigation scripting & testing for PhantomJS and SlimerJS
+Navigation scripting & testing for PhantomJS and SlimerJS.
 * [PhantomJS](http://phantomjs.org/)  
-PhantomJS is a headless WebKit scriptable with a JavaScript API
+PhantomJS is a headless WebKit scriptable with a JavaScript API.
 * [Sahi](http://sahipro.com/)  
-A web test automation tool
+A web test automation tool.
 * [Selenium](http://www.seleniumhq.org/)  
 Selenium is a suite of tools to automate web browsers across many platforms.
 * [SlimerJS](https://slimerjs.org/)  
-A scriptable browser for Web developers
+A scriptable browser for Web developers.
 
 ### Responsive testing
 
@@ -139,7 +139,7 @@ A bunch of devices diaplay your ewbsite at the same time, allowing you to visual
 ### Other
 
 * [Ngrok](https://ngrok.com/)
-Secure introspected tunnels to localhost
+Secure introspected tunnels to localhost.
 
 ----
 
