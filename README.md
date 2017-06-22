@@ -68,6 +68,15 @@ The shortest path to managing today’s infrastructure — and tomorrow’s.
 * [Vagrant](https://www.vagrantup.com/)  
 Create and configure lightweight, reproducible, and portable development environments.
 
+## Message queueing service
+
+* [Amazon SQS (Simple Queue System)](https://aws.amazon.com/sqs/)  
+Fully managed message queues for microservices, distributed systems, and serverless applications.
+* [Anypoint MQ](https://www.mulesoft.com/platform/anypoint-mq-message-queue)  
+Enterprise-class cloud messaging, fully integrated with Anypoint Platform.
+* [RabbitMQ](https://www.rabbitmq.com/)  
+The most widely deployed open source message broker.
+
 ## Mockups
 
 * [Balsamiq](https://balsamiq.com/)  
