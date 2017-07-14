@@ -23,6 +23,8 @@ Git is a free and open source distributed version control system designed to han
 GitHub fosters a fast, flexible, and collaborative development process that lets you work on your own or with others.
 * [GitLab](https://about.gitlab.com/)  
 GitLab unifies issues, code review, CI and CD into a single UI.
+* [Gitless](http://gitless.com/)  
+A simple version control system built on top of Git
 
 ## Continuous Integration (CI)
 
