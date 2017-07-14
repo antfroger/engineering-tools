@@ -50,6 +50,8 @@ The launch platform for your best work.
 
 ## Email
 
+* [Litmus](https://litmus.com/email-testing)  
+See screenshots of your emails across 70+ apps and devices to ensure compatibility in all environments.
 * [Mail tester](https://www.mail-tester.com/)  
 Test the Spammyness of your Emails.
 * [Mosaico](https://mosaico.io/)  
