@@ -98,7 +98,9 @@ Kibana lets you visualize your Elasticsearch data and navigate the Elastic Stack
 Unparalleled insights, in real-time, of everything happening on your Linux systems and applications.
 * [New Relic](https://newrelic.com/)  
 Performance monitoring for today’s digital business.
-* [VividCortex](https://www.vividcortex.com/)  
+* [Supervisor](http://supervisord.org/)  
+Supervisor is a client/server system that allows its users to control a number of processes on UNIX-like operating systems.
+* [VividCortex](https://www.vividcortex.com/)  
 Database Monitoring and Performance Management.
 
 ## Project Management
