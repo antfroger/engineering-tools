@@ -81,13 +81,6 @@ Enterprise-class cloud messaging, fully integrated with Anypoint Platform.
 * [RabbitMQ](https://www.rabbitmq.com/)  
 The most widely deployed open source message broker.
 
-## Mockups
-
-* [Balsamiq](https://balsamiq.com/)  
-Rapid, effective and fun wireframing software.
-* [Mockuuups Studio](https://mockuuups.studio/)  
-Drag-and-drop tool for creating beautiful app previews and marketing materials.
-
 ## Monitoring
 
 * [Grafana](http://grafana.org/)  
@@ -117,6 +110,15 @@ Redmine is a flexible project management web application.
 Trello lets you work more collaboratively and get more done.
 
 ## Project preparation
+
+### Mockups
+
+* [Balsamiq](https://balsamiq.com/)  
+Rapid, effective and fun wireframing software.
+* [Mockuuups Studio](https://mockuuups.studio/)  
+Drag-and-drop tool for creating beautiful app previews and marketing materials.
+
+### Define specifications
 
 * [Writemaps](https://writemaps.com/)
 
