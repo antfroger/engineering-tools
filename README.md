@@ -120,7 +120,8 @@ Drag-and-drop tool for creating beautiful app previews and marketing materials.
 
 ### Define specifications
 
-* [Writemaps](https://writemaps.com/)
+* [Writemaps](https://writemaps.com/) . 
+Helps you make sitemaps and gather content.
 
 ## Security
 
