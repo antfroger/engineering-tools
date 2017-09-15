@@ -109,7 +109,12 @@ Redmine is a flexible project management web application.
 * [Trello](https://trello.com/)  
 Trello lets you work more collaboratively and get more done.
 
-## Project preparation
+## Project Preparation
+
+### Feedback
+
+* [Pastel](https://usepastel.com/)  
+Build better websites with live sticky-note feedback.
 
 ### Mockups
 
@@ -118,7 +123,7 @@ Rapid, effective and fun wireframing software.
 * [Mockuuups Studio](https://mockuuups.studio/)  
 Drag-and-drop tool for creating beautiful app previews and marketing materials.
 
-### Define specifications
+### Specifications
 
 * [Writemaps](https://writemaps.com/) . 
 Helps you make sitemaps and gather content.
