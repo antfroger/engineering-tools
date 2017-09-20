@@ -83,7 +83,9 @@ The most widely deployed open source message broker.
 
 ## Monitoring
 
-* [Grafana](http://grafana.org/)  
+* [DataDog](https://www.datadoghq.com/)  
+Cloud-Scale Monitoring. Monitoring that tracks your dynamic infrastructure and applications.
+* [Grafana](http://grafana.org/)  
 The leading tool for querying and visualizing time series and metrics.
 * [Kibana](https://www.elastic.co/products/kibana)  
 Kibana lets you visualize your Elasticsearch data and navigate the Elastic Stack, so you can do anything from learning why you're getting paged at 2:00 a.m. to understanding the impact rain might have on your quarterly numbers.
