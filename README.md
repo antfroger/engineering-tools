@@ -97,7 +97,9 @@ Performance monitoring for today’s digital business.
 From metrics to insight. Power your metrics and alerting.
 * [Supervisor](http://supervisord.org/)  
 Supervisor is a client/server system that allows its users to control a number of processes on UNIX-like operating systems.
-* [VividCortex](https://www.vividcortex.com/)  
+* [Tideways](https://tideways.io/)  
+Your mission control center for PHP application performance
+* [VividCortex](https://www.vividcortex.com/)  
 Database Monitoring and Performance Management.
 
 ## Project Management
