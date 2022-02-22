@@ -71,6 +71,8 @@ Automated container deployment, scaling, and management.
 The shortest path to managing today’s infrastructure — and tomorrow’s.
 * [Vagrant](https://www.vagrantup.com/)  
 Create and configure lightweight, reproducible, and portable development environments.
+* [Spacelift](https://spacelift.io/)
+Flexible management platform for Infrastructure as Code.
 
 ## Message queueing service
 
