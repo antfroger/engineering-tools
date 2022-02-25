@@ -101,6 +101,7 @@ A curated list of very useful tools, platforms and resources to build high quali
 ### Functional testing
 
 * [CasperJS](http://casperjs.org/) - Navigation scripting & testing for PhantomJS and SlimerJS.
+* [Cypress](https://www.cypress.io/) - Fast, easy and reliable testing for anything that runs in a browser..
 * [PhantomJS](http://phantomjs.org/) - PhantomJS is a headless WebKit scriptable with a JavaScript API.
 * [Sahi](http://sahipro.com/) - A web test automation tool.
 * [Selenium](http://www.seleniumhq.org/) - Selenium is a suite of tools to automate web browsers across many platforms.
