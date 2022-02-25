@@ -23,7 +23,6 @@ A curated list of very useful tools, platforms and resources to build high quali
 * [Code Climate](https://codeclimate.com/) - Get automated code review for test coverage, complexity, duplication, security, style, and more, and merge with confidence.
 * [Jenkins](https://jenkins.io/) - The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project.
 * [Scrutinizer](https://scrutinizer-ci.com/) - Improve code quality and find bugs before they hit production with our continuous inspection platform.
-* [SensioLabsInsight](https://insight.sensiolabs.com/) - Insight continuously analyzes your code to detect security risks, finds bugs, provides actionable metrics and helps improve your projects in the long term.
 * [Travis CI](https://travis-ci.org/) - Test and Deploy with Confidence.
 
 ## Deployment tools
