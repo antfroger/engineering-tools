@@ -8,6 +8,7 @@ A curated list of very useful tools, platforms and resources to build high quali
 
 * [Postman](https://www.getpostman.com/) - A powerful GUI platform to make your API development faster & easier, from building API requests through testing, documentation and sharing.
 * [Runscope](https://www.runscope.com/) - API monitoring & testing.
+* [Linx](https://linx.software) - Low-code development platform to implement, debug and host APIs.
 
 ## Code versioning
 
