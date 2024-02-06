@@ -92,6 +92,7 @@ A curated list of very useful tools, platforms and resources to build high quali
 * [Detectify](https://detectify.com/) - Continuous Web Security.
 * [Evident.io](https://evident.io/) - Continuous Security & Compliance for Your Public Cloud.
 * [Signal Sciences](https://www.signalsciences.com/) - Application security for the modern web.
+* [Pixee](https://pixee.ai) - Pixeebot finds security and code quality issues in your code and creates merge-ready pull requests with recommended fixes.
 
 ## Testing
 
